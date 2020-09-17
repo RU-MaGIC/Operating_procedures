@@ -1,5 +1,4 @@
 # Cloud Archive Storage Policy
-*Implemented on 9/16/2020*
 All sequencing runs shall have an applicable data storage surcharge. This shall be scaled based upon the [average data output per Illumina flow cell](https://support.illumina.com/bulletins/2018/01/approximate-sizes-of-sequencing-run-output-folders.html). All data shall be stored in "hot" storage for 3 months, followed by cold archival storage for 57 months to meet the NIH 5 year data retention policy. 
 
 ## Pricing
