@@ -2,7 +2,7 @@
 This SOP covers how projects will be managed upon receipt into the BioComputation Core. 
 
 1. Project is received in the Core
-* Final details on receipt TBD
+* All project requests should be submitted through the [online form](http://www.bioinformagic.io/request/)
 2. An Issue will be created in the Projects repository and named following the convention below. This will add the project to the [tracking board](https://github.com/RU-NJMS-BICore/Projects/projects/2) and allow assignment of the project.
 3. Once the project is assigned, the assigned operator will add a targeted completion time as a comment in the issue. This is not a firm deadline, but simply a goal to keep things on track.
 4. When the project is actively being processed, the project card shall be moved to “In Progress” on the [project board](https://github.com/RU-NJMS-BICore/Projects/projects/2).
