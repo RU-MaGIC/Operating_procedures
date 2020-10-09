@@ -28,5 +28,7 @@ Each project directory shall consist of several subdirectories:
 - scripts: A directory for random scripts you may have used for this project
 - readme.txt: Just a file to describe the structure of the project. 
 
+For ease, an [example structure is provided](https://github.com/RU-MaGIC/Project_template)
+
 ## Github/Data repos
 All projects are expected to be retained within the lab or collaborators pre-publication. After publication, all project files are expected to be publically available, either through Github or data repositories (such as GEO/ENA/SRA)
