@@ -6,6 +6,8 @@ This SOP covers how raw data will be managed.
 3. Demultiplexing will be confirmed with the Genomics Core Facility (or other sequencing provider if applicable)
 4. BCL files will be retained in the Data Temp folder for up to 3 months once confirmed. If not changes are made, files we be treated per the data retention policy. 
 
+All data policies will be proactively provided to investigators. Prior to data deletion, investigators will be given a reasonable chance to take full resposibility of their data. 
+
 ## FASTQ files
 1. All BCL folders will be demultiplexed into individual FASTQ files per sample. 
 2. After demultiplexing, the FASTQ files (and ONLY the FASTQ files) will be copied to a project specific directory
